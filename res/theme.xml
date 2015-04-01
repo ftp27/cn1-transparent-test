@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="6" useXmlUI="false">
+    <image name="logo-idg-bw.png" type="multi"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="false" />
+        <val key="bgColor" value="ffffff" />
+        <val key="cmp0.bgColor" value="ffffff" />
+        <val key="cmp0.transparency" value="0" />
+        <val key="cmp1.bgColor" value="ffffff" />
+        <val key="cmp1.transparency" value="42" />
+        <val key="cmp2.bgColor" value="ffffff" />
+        <val key="cmp2.transparency" value="85" />
+        <val key="cmp3.bgColor" value="ffffff" />
+        <val key="cmp3.transparency" value="127" />
+        <val key="cmp4.bgColor" value="ffffff" />
+        <val key="cmp4.transparency" value="170" />
+        <val key="cmp5.bgColor" value="ffffff" />
+        <val key="cmp5.transparency" value="255" />
+        <val key="form.bgColor" value="30363d" />
+        <val key="form.bgImage" value="logo-idg-bw.png" />
+        <val key="form.bgType" value="24" />
+        <val key="form.fgColor" value="ffffff" />
+        <val key="form.transparency" value="255" />
+        <val key="transparency" value="42" />
+    </theme>
+</resource>
